@@ -1,0 +1,94 @@
+body{
+    background: rgb(255, 255, 255);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+}
+
+
+
+p{
+    color: white;
+}
+
+header{
+    color: rgb(255, 255, 255);
+    border: 5px  rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    display: inline-flex;
+    
+    
+}
+h2{
+    color: rgb(255, 255, 255);
+
+}
+section{
+    border: 5px  rgb(254, 254, 254);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 0px;
+
+}
+
+main{
+    background:rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+
+.titulo{
+    margin: 1px 0px 0px 10px;}
+
+    html{
+        background-color:rgb(255, 255, 255);
+        border-radius:30px solid red;
+    }
+
+    footer{
+        background-color:rgb(255, 255, 255);
+        color: rgb(0, 0, 0);
+    }
+
+    .vacio{
+        border:3px rgb(255, 255, 255) dashed;
+    }
+
+h2{
+    color: white;
+}
+
+li{
+    color: white;
+}
+.menu{
+    list-style: none;
+    padding: 0;
+    background: rgb(255, 255, 255);
+    width: 90000%;
+    max-width: 100px;
+    
+    margin: 10px 10px -76px 400px;
+}
+body{
+    font-family: Arial, Helvetica;
+    background: #e8e8e8;
+    
+}
+.menu li a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    display:block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: rgb(0, 4, 255);
+}
+
